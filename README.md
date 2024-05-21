@@ -4,7 +4,7 @@
 
 - This repository or any of its belongings has nothing to do with official Roblox.
 - This a community template to use in your code to give people more awareness.
-- If you find this resources useful, make sure to favorite this reposition and join the group!
+- If you find this resources useful, make sure to favorite this repository and join the group!
 
 ## How To Use
 
