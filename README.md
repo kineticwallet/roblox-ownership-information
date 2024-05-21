@@ -1,10 +1,12 @@
 # Roblox Ownership Information
 
+
 ## Information
 
 - This repository or any of its belongings has nothing to do with official Roblox.
 - This a community template to use in your code to give people more awareness.
 - If you find this resources useful, make sure to favorite this repository and join the group!
+
 
 ## How To Use
 
@@ -14,5 +16,13 @@
 4. Run `darklua process -c XYZ.darklua.json` and done, everything is updated.
 5. Follow all the rules/information stated.
 
+
+## Preview
+
+*The content of this template may look like this in your script(s)/code in the end.*
+![Possible preview of the end results.](images/preview.png)
+
+
 ## License
+
 - Licensed under the MIT.
