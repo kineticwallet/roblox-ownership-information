@@ -1,7 +1,14 @@
 >>>
-- This code is written by kineticwallet.
-- Follow license agreements and personal agreements!
-- Do not share to people who haven't agreed or broke an agreement!
-- If you encounter any problems report them directly back here.
-- No legal liability is here granted by kineticwallet if you encounter anything.
+
+### LICENSE AND INFORMATION ###
+- This code is authored or maintained by kineticwallet. All rights reserved.
+
+### Usage Terms ###
+- Comply with the applicable license agreements and any personal agreements.
+- Do not distribute or share this code with individuals who have not agreed to the terms or have violated an agreement.
+
+### DISCLAIMER ###
+- kineticwallet provides no warranties or representations of any kind concerning the code or software.
+- kineticwallet shall not be liable for any damages whatsoever arising from the use of this code or software.
+
 >>>
