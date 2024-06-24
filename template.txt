@@ -3,7 +3,7 @@
 ### LICENSE AND INFORMATION ###
 - This code is authored or maintained by kineticwallet. All rights reserved.
 
-### Usage Terms ###
+### USAGE TERMS ###
 - Comply with the applicable license agreements and any personal agreements.
 - Do not distribute or share this code with individuals who have not agreed to the terms or have violated an agreement.
 
